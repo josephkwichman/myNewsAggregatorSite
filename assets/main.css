@@ -1,0 +1,16 @@
+
+body {
+  font-family: 'Helvetica Neue', serif;
+  font-size: 18px;
+}
+
+
+
+.story div {
+  margin-bottom: 30px;
+}
+
+.spacer {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
